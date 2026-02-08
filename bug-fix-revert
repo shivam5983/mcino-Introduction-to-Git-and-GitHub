@@ -1,4 +1,7 @@
-curl.exe -H "Accept: application/vnd.github+json" https://api.github.com/repos/shivam5983/mcino-Introduction-to-Git-and-GitHub/pulls
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
 
-[
-]
+"head": {
+  "repo": {
+    "full_name": "shivam5983/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
